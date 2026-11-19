@@ -1,7 +1,5 @@
 # Local build output
-/dist/Reze-Zapret.exe
-/dist/Reze-Zapret-versions.exe
-/dist/previous/
+/dist/
 
 # Local application data and backups
 *.reze.bak
