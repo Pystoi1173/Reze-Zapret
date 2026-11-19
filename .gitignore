@@ -1,0 +1,23 @@
+# Local build output
+/dist/Reze-Zapret.exe
+/dist/Reze-Zapret-versions.exe
+/dist/previous/
+
+# Local application data and backups
+*.reze.bak
+.reze-domain-history.bin
+.reze-domain-history.bin.bak
+
+# Temporary test and build files
+tests/.check-*/
+*.tmp
+*.log
+
+# IDE and OS files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
