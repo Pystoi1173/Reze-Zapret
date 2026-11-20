@@ -518,3 +518,9 @@ Reze-Zapret/
 ## Благодарности
 
 Спасибо авторам Flowseal и zapret за основную рабочую сборку, которую Reze Zapret помогает настраивать через графический интерфейс.
+
+## Reze Translate
+
+Отдельный проект для офлайн-перевода английского текста в одиночных играх Windows. В бета-версии доступны OCR, русский перевод поверх игры, профили и файловый режим локализации.
+
+[Репозиторий Reze Translate](https://github.com/Pystoi1173/Reze-Translate) · [Релиз beta2](https://github.com/Pystoi1173/Reze-Translate/releases/tag/v0.1.0-beta2) · [Чат и предложения](https://github.com/Pystoi1173/Reze-Translate/discussions)
