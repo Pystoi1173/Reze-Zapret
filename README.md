@@ -22,7 +22,7 @@
 | [Reze Nova](https://github.com/Pystoi1173/Reze-Nova) | Отдельный центр управления маршрутом для Discord, YouTube, Telegram, своих сайтов и игровых серверов. |
 | **Reze Zapret** | Панель управления распакованной сборкой Flowseal с профилями, доменами, обновлением и ALT-лабораторией. |
 
-- [Скачать Reze Nova](https://github.com/Pystoi1173/Reze-Nova/releases/latest)
+- [Скачать Reze Nova](https://github.com/Pystoi1173/Reze-Nova/releases/tag/v0.1.0-beta.1)
 - [Открыть чат и обсуждения Reze Nova](https://github.com/Pystoi1173/Reze-Nova/discussions)
 - [Сообщить об ошибке Reze Nova](https://github.com/Pystoi1173/Reze-Nova/issues/new/choose)
 
