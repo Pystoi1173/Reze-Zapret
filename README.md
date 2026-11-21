@@ -15,6 +15,17 @@
   <img src="https://img.shields.io/badge/UI-WinForms-546de5?style=for-the-badge" alt="WinForms">
 </p>
 
+## Два основных проекта Reze
+
+| Проект | Для чего он нужен |
+| --- | --- |
+| [Reze Nova](https://github.com/Pystoi1173/Reze-Nova) | Отдельный центр управления маршрутом для Discord, YouTube, Telegram, своих сайтов и игровых серверов. |
+| **Reze Zapret** | Панель управления распакованной сборкой Flowseal с профилями, доменами, обновлением и ALT-лабораторией. |
+
+- [Скачать Reze Nova](https://github.com/Pystoi1173/Reze-Nova/releases/latest)
+- [Открыть чат и обсуждения Reze Nova](https://github.com/Pystoi1173/Reze-Nova/discussions)
+- [Сообщить об ошибке Reze Nova](https://github.com/Pystoi1173/Reze-Nova/issues/new/choose)
+
 > [!WARNING]
 > **Reze Zapret находится в стадии бета-тестирования.** Проект активно дорабатывается. В следующих версиях интерфейс, настройки и отдельные функции могут изменяться. Перед обновлением сохраняйте важные списки доменов и переносимые настройки.
 
@@ -449,17 +460,19 @@ Reze Zapret сейчас находится в бета-версии. Проек
 
 ## Ошибки, комментарии и предложения
 
-Для обсуждения проекта используйте GitHub Issues.
+Для технических ошибок используйте GitHub Issues. Для вопросов, идей и общего чата используйте GitHub Discussions.
 
 - [Сообщить об ошибке](../../issues/new?template=bug_report.md)
 - [Предложить функцию](../../issues/new?template=feature_request.md)
 - [Оставить комментарий или вопрос](../../issues/new?template=general_feedback.md)
+- [Открыть GitHub Discussions](../../discussions)
+- [Перейти в чат Reze Nova](https://github.com/Pystoi1173/Reze-Nova/discussions)
 
 Перед созданием обращения проверьте существующие Issues и приложите журнал или скриншот, если они помогают понять проблему. Не публикуйте приватные данные, токены и содержимое, которое не предназначено для открытого доступа.
 
 ## Поддержка проекта
 
-Если Reze Zapret оказался полезен, проект можно поддержать через DonationAlerts.
+Reze Nova и Reze Zapret развиваются как два основных проекта Reze. Если один из них оказался полезен, разработку можно поддержать через DonationAlerts.
 
 <p align="center">
   <a href="https://www.donationalerts.com/r/povetrie">
@@ -510,9 +523,13 @@ Reze-Zapret/
 └── README.md               Документация проекта
 ```
 
-## Связанные проекты
+## Связанные проекты и контакты
 
+- [Reze Nova](https://github.com/Pystoi1173/Reze-Nova) — отдельный центр управления маршрутом, Discord, YouTube, Telegram и игровыми серверами.
 - [Flowseal zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+- [Issues Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret/issues)
+- [Discussions Reze Zapret](https://github.com/Pystoi1173/Reze-Zapret/discussions)
+- [Чат и обсуждения Reze Nova](https://github.com/Pystoi1173/Reze-Nova/discussions)
 - [DonationAlerts Povetrie](https://www.donationalerts.com/r/povetrie)
 
 ## Благодарности
